@@ -10,6 +10,7 @@
 ### Contact with ME
 - **Facebook:** (https://web.facebook.com/profile.php?id=100013602036319)
 - **LinkedIn:** (https://www.linkedin.com/in/tahir-khan-41a977265/)
+- **Portfolio:** (https://tahirkhan.netlify.app/)
 <!---
 Tahir-Yousafzai/Tahir-Yousafzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
